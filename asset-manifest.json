@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Julija1004/goit-react-hw-01-component/static/css/main.6c559292.css",
+    "main.js": "/Julija1004/goit-react-hw-01-component/static/js/main.3794461e.js",
+    "index.html": "/Julija1004/goit-react-hw-01-component/index.html",
+    "main.6c559292.css.map": "/Julija1004/goit-react-hw-01-component/static/css/main.6c559292.css.map",
+    "main.3794461e.js.map": "/Julija1004/goit-react-hw-01-component/static/js/main.3794461e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c559292.css",
+    "static/js/main.3794461e.js"
+  ]
+}
